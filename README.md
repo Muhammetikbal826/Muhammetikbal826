@@ -1,4 +1,4 @@
-  [![MasterHead](  https://www.focus.it/images/2022/05/31/software-2_1020x680.jpg)
+  ![MasterHead](  https://www.focus.it/images/2022/05/31/software-2_1020x680.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed İkbal Aşık</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
