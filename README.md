@@ -1,19 +1,45 @@
-  ![MasterHead](  https://www.focus.it/images/2022/05/31/software-2_1020x680.jpg)
-<h1 align="center">Hi 👋, I'm Muhammed İkbal Aşık</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+ 
+</div>
 
-- 🔭 I’m currently working on **game development with unity**
+<h1 align="center">
+  Merhaba ben Muhammed İkbal Aşık
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🌱 I’m currently learning **Unity game development with c#**
+### :man_technologist: About Me :
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>I am a Software Engineering Student 
+- :telescope: <strong>I am currently working on java and python
+- :zap: <strong>I am developing a project on Tubitak and Teknofest embedded systems. 
+<br>
 
-- 📫 How to reach me **muhammetikbal826@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/muhammetikbal_asik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammetikbal_asik" height="30" width="40" /></a>
-</p>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-![snake gif](https://github.com/Muhammetikbal826/Muhammetikbal826/blob/output/github-contribution-grid-snake.gif)
+### :fire: My Stats :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammetikbal826&theme=dark&background=000000" alt="Muhammetikbal826" /></p>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammetikbal826&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="Muhammetikbal826" />
+<br>
+
+---
+
+### :mailbox: Contact With Me :
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-ikbal-aşık-a41bb7229/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetikbal826@gmail.com)
+ 
+
+
+
+
+
