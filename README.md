@@ -1,8 +1,11 @@
- 
+ <div id="header" align="center">
+  <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47ltcnna7997hvmfbntv0oxz1euejyyzef9q59pd0m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="260"/>
+</div>
+
 </div>
 
 <h1 align="center">
-  Merhaba ben Muhammed İkbal Aşık
+  Merhaba Ben Muhammed İkbal Aşık
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
