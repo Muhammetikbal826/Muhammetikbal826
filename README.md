@@ -26,6 +26,12 @@
 
 ---
 
+## <summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammetikbal826&theme=dark" >
+
+<br />
+<br />
+
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammetikbal826&theme=dark&background=000000" alt="Muhammetikbal826" /></p>
 <br>
