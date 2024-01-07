@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  Merhaba Ben,Muhammed İkbal Aşık
+  Merhaba Ben,Muhammed İkbal Aşık..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
