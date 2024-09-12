@@ -11,8 +11,8 @@
 
 ### :man_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>I am a Software Engineering Student 
-- :telescope: <strong>I am currently working as a mobile developer.
-- :zap: <strong>I am teknofest champion.
+- :telescope: <strong> I am currently working as a mobile developer.
+- :zap: <strong> I am teknofest champion.
 <br>
 
 ---
