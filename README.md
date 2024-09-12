@@ -4,10 +4,31 @@
 
 </div>
 
-<h1 align="center">
-  Merhaba Ben, Muhammed İkbal Aşık..
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Page</title>
+  <style>
+    .animated-text {
+      animation: typing 3s steps(30, end);
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid;
+      font-family: monospace;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <h1 class="animated-text">Merhaba Ben, Muhammed İkbal Aşık..</h1>
+</body>
+</html>
+
 
 
 ### :man_technologist: About Me :
