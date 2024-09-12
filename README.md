@@ -5,9 +5,10 @@
 </div>
 
 <h1 align="center">
-  Merhaba Ben,Muhammed İkbal Aşık..
+  Merhaba Ben, Muhammed İkbal Aşık..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 ### :man_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>I am a Software Engineering Student.
